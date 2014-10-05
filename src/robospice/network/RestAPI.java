@@ -1,9 +1,8 @@
-package com.robospice.retrofit.tutorial.network;
+package robospice.network;
 
 import retrofit.http.GET;
 import retrofit.http.Query;
-
-import com.robospice.retrofit.tutorial.pojo.Response;
+import robospice.response.Response;
 
 public interface RestAPI {
 	

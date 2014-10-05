@@ -1,4 +1,4 @@
-package com.robospice.retrofit.tutorial.network;
+package robospice.network;
 
 import retrofit.RequestInterceptor;
 import retrofit.RestAdapter.Builder;

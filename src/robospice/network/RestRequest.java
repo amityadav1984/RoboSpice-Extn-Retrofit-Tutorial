@@ -1,7 +1,9 @@
-package com.robospice.retrofit.tutorial.network;
+package robospice.network;
+
+
+import robospice.response.Response;
 
 import com.octo.android.robospice.request.retrofit.RetrofitSpiceRequest;
-import com.robospice.retrofit.tutorial.pojo.Response;
 
 /**
  * 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.robospice.retrofit.tutorial"
+    package="robospice.app"
     android:versionCode="1"
     android:versionName="0.0.1-SNAPSHOT" >
 
@@ -25,7 +25,7 @@
         </activity>
 
         <service
-            android:name=".network.RestService"
+            android:name="robospice.network.RestService"
             android:exported="false" />
     </application>
 

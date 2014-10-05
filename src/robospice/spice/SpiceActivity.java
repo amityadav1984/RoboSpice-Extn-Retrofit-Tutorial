@@ -1,9 +1,9 @@
-package com.robospice.retrofit.tutorial;
+package robospice.spice;
 
+import robospice.network.RestService;
 import android.app.Activity;
 
 import com.octo.android.robospice.SpiceManager;
-import com.robospice.retrofit.tutorial.network.RestService;
 
 /**
  * This class is the base class of all activities of the sample project. This class offers all

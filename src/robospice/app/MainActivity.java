@@ -1,5 +1,10 @@
-package com.robospice.retrofit.tutorial;
+package robospice.app;
 
+
+
+import robospice.network.RestRequest;
+import robospice.response.Response;
+import robospice.spice.SpiceActivity;
 import android.os.Bundle;
 import android.view.Window;
 import android.widget.TextView;
@@ -7,8 +12,6 @@ import android.widget.Toast;
 
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
-import com.robospice.retrofit.tutorial.network.RestRequest;
-import com.robospice.retrofit.tutorial.pojo.Response;
 
 public class MainActivity extends SpiceActivity {
 

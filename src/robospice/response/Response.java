@@ -1,4 +1,6 @@
-package com.robospice.retrofit.tutorial.pojo;
+package robospice.response;
+
+
 
 import java.util.ArrayList;
 import java.util.List;
